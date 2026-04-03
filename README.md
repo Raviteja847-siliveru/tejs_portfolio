@@ -108,8 +108,27 @@ Modeling: DAX (Measures & Calculated Columns)
 
 Transformation: Power Query (M Language)
 
-**📸 Dashboard Preview**
+## 📸 Dashboard Preview
 
+### 🔹 Executive Overview
+<p align="center">
+  <img src="images/executive_dashboard.png" width="800"/>
+</p>
+
+### 🔹 Customer Intelligence
+<p align="center">
+  <img src="images/customer_dashboard.png" width="800"/>
+</p>
+
+### 🔹 Product & Sellers
+<p align="center">
+  <img src="images/product_dashboard.png" width="800"/>
+</p>
+
+### 🔹 Operations
+<p align="center">
+  <img src="images/operations_dashboard.png" width="800"/>
+</p>
 
 🎬 Netflix Global Strategy: Data-Driven Content Intelligence
 SQL Engineering | Metadata Normalization | Power BI Strategic Analytics
