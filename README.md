@@ -110,24 +110,26 @@ Transformation: Power Query (M Language)
 
 ## 📸 Dashboard Preview
 
-### 🔹 Executive Overview
+## 📸 Dashboard Preview
+
+### Executive Overview
 <p align="center">
-  <img src="images/executive_dashboard.png" width="800"/>
+  <img src="executive_dashboard.png" width="800"/>
 </p>
 
-### 🔹 Customer Intelligence
+### Customer Intelligence
 <p align="center">
-  <img src="images/customer_dashboard.png" width="800"/>
+  <img src="customer_dashboard.png" width="800"/>
 </p>
 
-### 🔹 Product & Sellers
+### Product & Sellers
 <p align="center">
-  <img src="images/product_dashboard.png" width="800"/>
+  <img src="product_dashboard.png" width="800"/>
 </p>
 
-### 🔹 Operations
+### Operations
 <p align="center">
-  <img src="images/operations_dashboard.png" width="800"/>
+  <img src="operations_dashboard.png" width="800"/>
 </p>
 
 🎬 Netflix Global Strategy: Data-Driven Content Intelligence
