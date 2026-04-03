@@ -110,27 +110,26 @@ Transformation: Power Query (M Language)
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ### Executive Overview
 <p align="center">
-  <img src="executive_dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Raviteja847-siliveru/olist-ecommerce-dashboard/main/executive_dashboard.png" width="800"/>
 </p>
 
 ### Customer Intelligence
 <p align="center">
-  <img src="customer_dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Raviteja847-siliveru/olist-ecommerce-dashboard/main/customer_dashboard.png" width="800"/>
 </p>
 
 ### Product & Sellers
 <p align="center">
-  <img src="product_dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Raviteja847-siliveru/olist-ecommerce-dashboard/main/product_dashboard.png" width="800"/>
 </p>
 
 ### Operations
 <p align="center">
-  <img src="operations_dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Raviteja847-siliveru/olist-ecommerce-dashboard/main/operations_dashboard.png" width="800"/>
 </p>
+
 
 🎬 Netflix Global Strategy: Data-Driven Content Intelligence
 SQL Engineering | Metadata Normalization | Power BI Strategic Analytics
