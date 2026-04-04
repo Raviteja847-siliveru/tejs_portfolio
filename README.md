@@ -174,7 +174,7 @@ That foundation shapes how I approach analytics:
 |---|---|
 | ![Product](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/product_dashboard.png) | ![Operations](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/operations_dashboard.png) |
 
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard)  
 
 ---
 
@@ -218,7 +218,7 @@ That foundation shapes how I approach analytics:
 
 ![Netflix Dashboard](https://github.com/Raviteja847-siliveru/netflix-content-analysis/blob/main/Netflix_png.png)
 
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis) 
 
 ---
 
@@ -256,8 +256,7 @@ That foundation shapes how I approach analytics:
 
 ![Blinkit Dashboard](https://raw.githubusercontent.com/Raviteja847-siliveru/blinkit-sales-dashboard/main/images/blinkit_dashboard.png)
 
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/blinkit-sales-dashboard) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
-
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/blinkit-sales-dashboard) 
 ---
 
 ## 📚 Currently Learning
