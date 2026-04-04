@@ -5,7 +5,7 @@
 # Raviteja Siliveru
 ### Data Analyst · SQL Engineer · Power BI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SQL+Engineer+turned+Data+Analyst;I+understand+data+before+it+reaches+the+dashboard;99%25%2B+Accuracy+%7C+~30%25+Query+Boost+%7C+Production+SQL;Power+BI+%7C+DAX+%7C+Star+Schema+%7C+Python+%7C+ETL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SQL+Engineer+turned+Data+Analyst;Production+SQL+%7C+Star+Schema+%7C+ETL+Pipelines;99%25%2B+Data+Accuracy+%7C+~30%25+Query+Optimisation;Power+BI+%7C+DAX+%7C+Python+%7C+End-to-End+BI+Delivery" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ravitejasiliveru480-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitejasiliveru480@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Raviteja847--siliveru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raviteja847-siliveru)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20Roles-2ea44f?style=for-the-badge)](mailto:ravitejasiliveru480@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Raviteja847-siliveru&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Raviteja847-siliveru)
 
 </div>
 
@@ -26,69 +25,51 @@ profile = {
     "name"       : "Raviteja Siliveru",
     "title"      : "Data Analyst | SQL Engineer",
     "location"   : "Hyderabad, India",
-    "edge"       : """
-        Most analysts learn from sample datasets.
-        I learned from production systems that break at 2AM.
-        That engineering discipline is inside every dashboard I build.
-    """,
-    "background" : "SQL Engineer @ Movate (Google Project) → Data Analyst",
+    "background" : "SQL Engineer @ Movate (Google client data pipelines) → Data Analyst",
     "stack"      : ["SQL", "Power BI", "Python", "DAX", "Power Query", "Excel"],
-    "strengths"  : ["ETL pipelines", "Star schema design", "Query optimisation",
+    "strengths"  : ["ETL pipeline monitoring", "Star schema design", "Query optimisation",
                     "Root cause analysis", "End-to-end BI dashboard delivery"],
     "proof"      : {
-        "data_accuracy"  : "99%+  on live production pipelines",
+        "data_accuracy"  : "99%+  on production pipelines",
         "query_speed"    : "~30%  faster via execution plans & indexing",
         "pipeline_ops"   : "20+   daily batch jobs monitored end-to-end",
         "incidents"      : "10-15 weekly incidents resolved via RCA"
     },
-    "open_to"    : ["Data Analyst", "BI Analyst", "Business Analyst"],
+    "open_to"    : ["Data Analyst", "BI Analyst", "SQL Analyst", "Business Analyst"],
     "available"  : True
 }
 ```
 
 ---
 
-## ⚙️ Engineering Meets Analytics
+## ⚙️ What Makes My Background Different
 
-Most data analyst portfolios are built from Kaggle datasets and YouTube tutorials.
-Mine is built on top of **real production SQL engineering experience.**
+Most analyst portfolios are built on Kaggle samples. Mine is built on **real production SQL engineering experience.**
 
-At Movate, I worked on a **Google-project-level data pipeline** — monitoring batch jobs, resolving live incidents, running Root Cause Analysis, and fixing data quality issues on systems where errors had real business consequences.
+At Movate, I supported **Google client data pipelines** — monitoring batch jobs, resolving live incidents, performing Root Cause Analysis, and fixing data quality issues on systems where errors had direct business impact.
 
-That background gives my analytics work a different foundation:
+That foundation shapes how I approach analytics:
 
-- ✅ I model data correctly **before** building any visual — not after
+- ✅ I model data correctly **before** building visuals — not after
 - ✅ I catch data quality problems **at the source** — not in the dashboard
-- ✅ I write DAX and SQL that performs at scale — not just on 1,000-row samples
+- ✅ I write DAX and SQL that performs at scale — not just on sample rows
 - ✅ I think about **downstream business impact**, not just chart aesthetics
-
-> *This is the difference between a dashboard that looks good and a dashboard stakeholders actually trust.*
 
 ---
 
 ## 💼 Work Experience
 
-<table>
-<tr>
-<td>
-
-### 🏢 SQL Engineer — Movate *(Google Project Vendor)*
+### SQL Engineer — Movate *(Google Client Data Pipelines)*
 📅 **January 2025 – May 2026** &nbsp;|&nbsp; 📍 Hyderabad, India
-*(Transitioned into full-time Data Analytics focus post-engagement)*
 
-</td>
-</tr>
-</table>
-
-| Responsibility | Measurable Impact |
+| Responsibility | Impact |
 |---|---|
-| Monitored **20+ daily production batch jobs** for data processing integrity | Zero SOD reporting failures during entire tenure |
-| Resolved **10–15 weekly pipeline incidents** using GUTS internal ticketing | Maintained 99%+ system uptime consistently |
-| Performed **Root Cause Analysis (RCA)** on recurring data pipeline failures | Reduced repeat incident rate significantly |
-| Applied **SQL-based targeted data fixes** on high-volume transactional datasets | Data accuracy improved to **99%+** |
-| Optimised slow queries using **execution plans and strategic indexing** | **~30% reduction** in average query run time |
-| Collaborated with cross-functional analytics and engineering teams | Worked on Google client data pipelines via Movate |
-| Performed **Start-of-Day (SOD) checks** for time-critical business reporting | Ensured zero delays on time-sensitive data deliveries |
+| Monitored **20+ daily production batch jobs** for data integrity | Zero SOD reporting failures during tenure |
+| Resolved **10–15 weekly pipeline incidents** via GUTS ticketing | Maintained 99%+ pipeline reliability |
+| Performed **Root Cause Analysis** on recurring data failures | Reduced repeat incident frequency |
+| Applied **SQL-based data fixes** on high-volume transactional datasets | Accuracy improved to **99%+** |
+| Optimised slow queries using execution plans and strategic indexing | **~30% reduction** in average query runtime |
+| Ran **Start-of-Day (SOD) checks** for time-critical business reporting | Zero delays on time-sensitive data deliveries |
 
 ---
 
@@ -96,12 +77,10 @@ That background gives my analytics work a different foundation:
 
 | Qualification | Institution | Year |
 |---|---|---|
-| 🎓 B.Tech — [Your Branch] | [Your College Name], Hyderabad | [Year] |
-| 📜 SQL for Data Science | Coursera / University of California Davis | 2024 |
-| 📜 Python for Data Analysis | Udemy / [Platform] | 2024 |
-| 📜 Microsoft Power BI Data Analyst (PL-300) | Microsoft Learn — In Progress | 2025 |
-
-> 💡 *Replace the placeholders above with your actual degree, branch, college and completed certifications before publishing.*
+| 🎓 B.Tech — [Your Branch] | [Your College], Hyderabad | [Year] |
+| 📜 SQL for Data Science | Coursera / UC Davis | 2024 |
+| 📜 Python for Data Analysis | [Platform] | 2024 |
+| 📜 Microsoft PL-300 — Power BI Data Analyst | Microsoft Learn — In Progress | 2025 |
 
 ---
 
@@ -137,203 +116,154 @@ That background gives my analytics work a different foundation:
 
 ## 📂 Project Portfolio
 
-> Built with a **production mindset** — data integrity first, schema second, visuals last.
-> Every project includes: problem framing → engineering → modelling → insights → business recommendations.
+> **Approach on every project:** Problem framing → Data engineering → Schema design → Insights → Business recommendations.
 
 ---
 
-### 🇧🇷 01 · Olist Brazilian E-Commerce BI Ecosystem
+### 🇧🇷 01 · Olist Brazilian E-Commerce — BI Dashboard
 **`SQL` `Power BI` `DAX` `Power Query` `Star Schema`**
 
-> *Transformed 9 raw CSV files (113K+ records) into a 4-page strategic BI platform serving C-suite to Supply Chain.*
+**Problem:** 9 raw CSVs with 113K+ order records. No unified reporting. Leadership couldn't see revenue trends, delivery gaps, or customer retention problems in one place.
+
+**Goal:** Build a production-grade BI platform covering executive, customer, product, and operations views.
+
+**Outcome:** 4-page dashboard with 25+ DAX measures. Key gaps surfaced: 96% single-purchase customers, 12-day delivery lag in northern states.
 
 <table>
-<tr><td><b>Dataset</b></td><td>Olist — 9 CSV files, 113,000+ order records (Kaggle)</td></tr>
-<tr><td><b>Architecture</b></td><td>Star Schema: 1 Fact Table + 8 Dimension Tables</td></tr>
-<tr><td><b>DAX Measures</b></td><td>25+ measures: Revenue, MoM%, YoY%, YTD, RFM, On-Time Delivery %</td></tr>
-<tr><td><b>Dashboard Pages</b></td><td>Executive Overview · Customer Intelligence · Product & Sellers · Operations</td></tr>
+<tr><td><b>Dataset</b></td><td>9 CSV files · 113,000+ order records (Kaggle / Olist)</td></tr>
+<tr><td><b>Schema</b></td><td>Star Schema: 1 Fact Table + 8 Dimension Tables</td></tr>
+<tr><td><b>DAX Measures</b></td><td>25+ — Revenue, MoM%, YoY%, YTD, RFM, On-Time Delivery %</td></tr>
+<tr><td><b>Pages</b></td><td>Executive Overview · Customer Intelligence · Product & Sellers · Operations</td></tr>
 </table>
 
-**KPI Results:**
+**Results at a glance:**
 
-| Metric | Value | Business Signal |
-|---|---|---|
-| Total Revenue | **R$ 13.59M** | Full GMV picture across 2 years |
-| Total Orders | **99,441** | High-volume logistics complexity |
-| Avg Order Value | **R$ 137.75** | Discount threshold baseline |
-| Avg Customer Rating | **4.1 / 5.0** | Healthy — with improvement room |
-| On-Time Delivery | **97.78%** | Strong nationally, gaps in North |
-| Unique Customers | **15,100** | Re-engagement target base |
+| KPI | Value |
+|---|---|
+| Total Revenue | R$ 13.59M |
+| Total Orders | 99,441 |
+| Avg Order Value | R$ 137.75 |
+| Avg Rating | 4.1 / 5.0 |
+| On-Time Delivery | 97.78% |
+| Unique Customers | 15,100 |
 
-**Engineering decisions I made:**
-- Decomposed 9 flat files into star schema — eliminated circular dependency risk
+**Key engineering decisions:**
+- Decomposed 9 flat files into a clean star schema — removed circular dependency risk
 - Handled 2,000+ null delivery timestamps using conditional logic (not deletion)
-- Deduped 1M+ geolocation zip codes to a clean unique set
-- Built Portuguese → English category mapping layer for global stakeholder access
-- Created custom `Dim_Date` via DAX `CALENDAR()` for full time-intelligence support
+- Deduped 1M+ geolocation zip codes to a unique set
+- Built `Dim_Date` via DAX `CALENDAR()` for full time-intelligence support
 
-**Key findings that changed the business story:**
-- **96% of customers bought only once** — the single biggest revenue opportunity in the dataset
+**Findings that changed the business story:**
+- **96% of customers bought only once** — biggest single revenue opportunity in the dataset
 - **São Paulo = 40%+ of all orders** — geographic concentration is a business risk
-- **Black Friday 2017 = 15% of annual GMV** — seasonality is predictable and plannable
-- **Northern states = 12-day delivery lag** vs national average — logistics gap confirmed
+- **Black Friday 2017 = 15% of annual GMV** — seasonality is measurable and plannable
+- **Northern states = 12-day delivery lag** vs national average — confirmed logistics gap
 
-**Business recommendations I made:**
-- 🎯 Second-purchase discount trigger for Health & Beauty (top revenue category)
-- 🏭 Secondary warehouse hub in northern states to close the 12-day delivery gap
-- 📣 Q4 marketing budget focused on Watches & Gifts — highest AOV category
+**Recommendations made:**
+- Second-purchase discount trigger for Health & Beauty (top revenue category)
+- Secondary warehouse hub in northern states to close the delivery gap
+- Q4 marketing budget toward Watches & Gifts — highest AOV category
 
-**📸 Dashboard Preview:**
+**Dashboard Previews:**
 
-### Executive Overview
-<p align="center">
-  <img src="https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/executive_dashboard.png" width="800"/>
-</p>
+| Executive Overview | Customer Intelligence |
+|---|---|
+| ![Executive](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/executive_dashboard.png) | ![Customer](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/customer_dashboard.png) |
 
-### Customer Intelligence
-<p align="center">
-  <img src="https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/customer_dashboard.png" width="800"/>
-</p>
+| Product & Sellers | Operations |
+|---|---|
+| ![Product](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/product_dashboard.png) | ![Operations](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/operations_dashboard.png) |
 
-### Product & Sellers
-<p align="center">
-  <img src="https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/product_dashboard.png" width="800"/>
-</p>
-
-### Operations
-<p align="center">
-  <img src="https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/operations_dashboard.png" width="800"/>
-</p>
-
-🔗 [**View Full Project & Files →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard)
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
 
 ---
 
-### 🎬 02 · Netflix Global Content Strategy Intelligence
+### 🎬 02 · Netflix Global Content Strategy — SQL + Power BI
 **`SQL` `CTEs` `CROSS APPLY` `STRING_SPLIT` `Power BI` `DAX` `1NF Normalisation`**
 
-> *Re-engineered semi-structured Netflix metadata into a normalised analytical model — enabling genre-level analysis that was impossible on the raw data.*
+**Problem:** Raw Netflix metadata stored genres as comma-separated strings — making any genre-level analysis invalid on the raw data.
+
+**Goal:** Re-engineer semi-structured data into a normalised model that enables genre, geography, and content-type analysis.
+
+**Outcome:** SQL normalisation increased usable data granularity by 115%. Content strategy inflection point (2015 US → Global pivot) confirmed with data.
 
 <table>
 <tr><td><b>Dataset</b></td><td>~8,800 Netflix titles across 749 countries (Kaggle)</td></tr>
 <tr><td><b>SQL Work</b></td><td>CROSS APPLY + STRING_SPLIT to unnest 500+ multi-value genre strings</td></tr>
-<tr><td><b>Architecture</b></td><td>Fact_Titles + Dim_Date, Dim_Genre, Dim_Geography, Dim_Ratings</td></tr>
+<tr><td><b>Schema</b></td><td>Fact_Titles + Dim_Date, Dim_Genre, Dim_Geography, Dim_Ratings</td></tr>
 <tr><td><b>Key Challenge</b></td><td>Moved raw data from denormalised strings to First Normal Form (1NF)</td></tr>
 </table>
 
-**KPI Results:**
+**Results at a glance:**
 
-| Metric | Value | Business Signal |
-|---|---|---|
-| Total Titles | **~8,800** | Global library snapshot |
-| Countries Represented | **749** | Localisation-first strategy |
-| Unique Genre Combinations | **515** | After SQL unnesting (was 1 column) |
-| Data Granularity Gain | **+115%** | From SQL normalisation alone |
-| Primary Rating | **TV-MA / TV-14** | Adult-first content strategy |
-| Content Inflection Year | **2015** | US → Global pivot confirmed |
-
-**Engineering decisions I made:**
-- Identified that comma-separated genre strings made all category analysis invalid
-- Applied `CROSS APPLY` + `STRING_SPLIT` — increased usable data granularity by 115%
-- Built star schema from scratch — no pre-built model existed in raw data
-- Cleaned 20% "Unknown" country/director records from legacy catalog entries
+| KPI | Value |
+|---|---|
+| Total Titles | ~8,800 |
+| Countries | 749 |
+| Genre Combinations (after SQL) | 515 unique |
+| Data Granularity Gain | +115% from normalisation |
+| Content Inflection Year | 2015 |
 
 **Key findings:**
-- **10× content volume growth post-2015** — the US-to-Global strategy pivot is data-confirmed
-- **Drama & International = highest volume genres** — localised storytelling is the core growth engine
-- **TV-MA dominance** — Netflix's value prop is premium adult content, not family broadcasting
-- **20% metadata gap** — legacy data quality issue actively undermining reporting accuracy
+- **10× content volume growth post-2015** — US-to-Global strategy confirmed in data
+- **Drama & International = highest volume** — localised storytelling is the core engine
+- **TV-MA dominant** — Netflix's value prop is premium adult content
+- **20% metadata gap** — legacy records missing country/director data at ingestion
 
-**Business recommendations I made:**
-- 📦 Increase Family/Kids licensing in emerging markets — reduces household account churn
-- 🌏 Reallocate production budget to International Action in Asia-Pacific — highest cross-border ROI
-- 🔧 Standardise metadata at content ingestion — fixes the 20% unknown-record problem at source
+**Recommendations made:**
+- Increase Family/Kids licensing in emerging markets — reduces household churn
+- Standardise metadata at content ingestion — fixes the 20% unknown-record problem at source
 
-**📸 Dashboard Preview:**
-<p align="center">
-  <img src="https://github.com/Raviteja847-siliveru/netflix-content-analysis/blob/main/Netflix_png.png" width="800"/>
-</p>
+**Dashboard Preview:**
 
-🔗 [**View Full Project & Files →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis)
+![Netflix Dashboard](https://github.com/Raviteja847-siliveru/netflix-content-analysis/blob/main/Netflix_png.png)
+
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
 
 ---
 
-### 🛍️ 03 · Blinkit Quick Commerce Sales Intelligence
+### 🛍️ 03 · Blinkit Quick Commerce — Sales Intelligence
 **`Power BI` `DAX` `Power Query` `Excel`**
 
-> *Analysed 8,500+ Blinkit sales records to surface counterintuitive outlet profitability patterns across India's quick commerce market.*
+**Problem:** Sales data across outlet types, city tiers, and product categories existed in isolation — no consolidated view of where profitability actually came from.
+
+**Goal:** Surface outlet-level and SKU-level profitability patterns across India's quick commerce market.
+
+**Outcome:** Tier-3 medium outlets identified as highest revenue-per-item segment — counterintuitive finding with direct expansion implications.
 
 <table>
 <tr><td><b>Dataset</b></td><td>8,500+ Blinkit sales records across outlet types, tiers & categories</td></tr>
-<tr><td><b>Focus</b></td><td>Outlet profitability · Product performance · Consumer behaviour trends</td></tr>
+<tr><td><b>Focus</b></td><td>Outlet profitability · Product performance · Consumer behaviour</td></tr>
 </table>
 
-**KPI Results:**
-
-| Metric | Value |
+| KPI | Value |
 |---|---|
-| Total Sales | **$1.20M** |
-| Avg Sale per Transaction | **$141** |
-| Items Tracked | **8,523** |
-| Avg Customer Rating | **3.9 / 5.0** |
-
-**Engineering decisions I made:**
-- Built KPI cards, fat content split, outlet establishment timeline and outlet type comparison matrix
-- Designed dynamic slicers across outlet location type, outlet size and item type
-- Identified Tier-3 medium outlets as highest profitability segment — validated against all other tiers
+| Total Sales | $1.20M |
+| Avg Sale / Transaction | $141 |
+| Items Tracked | 8,523 |
+| Avg Rating | 3.9 / 5.0 |
 
 **Key findings:**
-- **Tier-3 medium outlets outperform Tier-1 large outlets** in revenue per item — counterintuitive and highly actionable
-- **Low-fat products gaining share over regular** — structural health-conscious shift in quick commerce behaviour
-- **Fruits, Vegetables & Snack Foods** drive highest order volume — bundling and subscription opportunity
+- **Tier-3 medium outlets outperform Tier-1 large outlets** in revenue per item
+- **Low-fat products gaining share** — health-conscious shift in quick commerce
+- **Fruits, Vegetables & Snacks** drive highest order volume — bundling opportunity
 
-**Business recommendations I made:**
-- 🏪 Prioritise Tier-3 city expansion over densifying Tier-1 locations
-- 🔍 Audit low-rated high-revenue SKUs — quality gap is a retention risk
-- 📦 Introduce category bundling and subscription models on top-volume items
+**Recommendations made:**
+- Prioritise Tier-3 city expansion over densifying Tier-1 locations
+- Audit low-rated high-revenue SKUs — quality gap is a retention risk
 
-**📸 Dashboard Preview:**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raviteja847-siliveru/blinkit-sales-dashboard/main/images/blinkit_dashboard.png" width="800"/>
-</p>
+**Dashboard Preview:**
 
-🔗 [**View Full Project & Files →**](https://github.com/Raviteja847-siliveru/blinkit-sales-dashboard)
+![Blinkit Dashboard](https://raw.githubusercontent.com/Raviteja847-siliveru/blinkit-sales-dashboard/main/images/blinkit_dashboard.png)
+
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/blinkit-sales-dashboard) &nbsp;|&nbsp; 📊 [**Live Dashboard →**](#) *(add Power BI Service link)*
 
 ---
 
-## 🚀 What I Can Deliver for Your Team in 30 Days
-
-*Most candidates tell you what they know. Here's what I'll actually do:*
-
-| Week | Deliverable |
-|---|---|
-| **Week 1** | Audit your existing data sources, understand reporting pain points, map the pipeline |
-| **Week 2** | Clean and model the data correctly — star schema, relationships, data quality fixes |
-| **Week 3** | Build the first working Power BI dashboard with real KPIs and stakeholder views |
-| **Week 4** | Iterate based on feedback, add DAX time-intelligence, document everything |
-
-> I don't need hand-holding on SQL or data quality — I've handled that in production.
-> What I bring is **engineering rigour applied to analytics delivery.**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raviteja847-siliveru&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviteja847-siliveru&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviteja847-siliveru&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
-
-## 📚 Currently Deepening
+## 📚 Currently Learning
 
 ```
-SQL (Advanced)          ████████████████████   Window functions · CTEs · Optimisation  ← Core strength
+SQL (Advanced)          ████████████████████   Window functions · CTEs · Execution plans
 Power BI + DAX          ██████████████████░░   Star schema · Time intelligence · RLS
 Python for Analytics    ████████████████░░░░   Pandas · Seaborn · Matplotlib · EDA
 Power BI Service        ██████████████░░░░░░   Scheduled refresh · Workspaces · RLS
@@ -342,11 +272,11 @@ Statistics              ████████████░░░░░░�
 
 ---
 
-## 📬 Currently Open To
+## 📬 Open To
 
-✅ **Roles:** Data Analyst · BI Analyst · Business Analyst · SQL Analyst
-✅ **Location:** Hyderabad (preferred) · Remote (open) · Bengaluru / Chennai (open to relocate)
-✅ **Availability:** Immediate
+✅ **Roles:** Data Analyst · BI Analyst · SQL Analyst · Business Analyst  
+✅ **Location:** Hyderabad (preferred) · Remote · Bengaluru / Chennai (open to relocate)  
+✅ **Availability:** Immediate  
 ✅ **Contact:** [ravitejasiliveru480@gmail.com](mailto:ravitejasiliveru480@gmail.com)
 
 <div align="center">
@@ -359,7 +289,7 @@ Statistics              ████████████░░░░░░�
 
 <br/><br/>
 
-*"Without data you're just another person with an opinion —*
+*"Without data you're just another person with an opinion —*  
 *without engineering, your data is just another guess."*
 
 <br/>
