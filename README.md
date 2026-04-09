@@ -120,7 +120,99 @@ That foundation shapes how I approach analytics:
 
 ---
 
-### 🇧🇷 01 · Olist Brazilian E-Commerce — BI Dashboard
+### 🛍️ 01 · Blinkit Quick Commerce — Sales Intelligence Dashboard
+**`Power BI` `DAX` `Power Query` `SQL` `Excel`**
+
+**Problem:** Sales data across outlet types, city tiers, and product categories existed in isolation — no consolidated view of where profitability actually came from or which outlet segments were outperforming expectations.
+
+**Goal:** Surface outlet-level and SKU-level profitability patterns across India's quick commerce market, and identify counterintuitive performance gaps that aggregate reporting would miss.
+
+**Outcome:** Tier-3 medium outlets identified as the highest revenue segment — outperforming Tier-1 metro locations — a counterintuitive finding with direct expansion implications. Low-fat products confirmed as the dominant preference, signalling a measurable consumer health shift.
+
+<table>
+<tr><td><b>Dataset</b></td><td>8,500+ Blinkit sales records across outlet types, tiers & categories</td></tr>
+<tr><td><b>Tools</b></td><td>Power BI · DAX · Power Query · SQL (Data Cleaning) · Excel (Preprocessing)</td></tr>
+<tr><td><b>Focus</b></td><td>Outlet profitability · Product performance · Consumer behaviour · Sales trends</td></tr>
+</table>
+
+**Results at a glance:**
+
+| KPI | Value |
+|---|---|
+| Total Sales | ~$1M |
+| Avg Sales per Item | $141.15 |
+| Items Tracked | ~8,000 |
+| Avg Rating | 3.92 / 5.0 |
+
+**Key findings:**
+
+- **Supermarket Type1 dominates revenue** — contributing ~$750K (70%+ of total sales), reflecting strong customer trust and product depth in that outlet format
+- **Tier-3 locations outperform Tier-1** — generating ~$447K vs $318K, confirming that emerging markets are a larger growth engine than metro densification
+- **Low-fat products lead sales** — ~$732K vs ~$409K for regular, indicating a measurable shift toward health-conscious consumption
+- **Fruits, Snacks & Household items** drive the highest order volume — with Seafood, Breakfast, and Starch contributing negligibly
+- **Peak sales in 2018 (~$195K)** followed by stabilisation — possible signal of market maturity or operational change post-expansion
+- **Ratings are consistent across all outlet types** at ~3.92, indicating uniform customer experience regardless of location or format
+
+**Recommendations made:**
+- Prioritise Tier-2 and Tier-3 city expansion over densifying Tier-1 locations — the data makes the case clearly
+- Increase supply and promotional focus on Fruits, Snacks, and Household items — highest volume categories
+- Strategically promote low-fat SKUs to match the confirmed consumer preference shift
+- Audit underperforming categories (Seafood, Breakfast, Starch) for bundling or discount opportunities
+- Investigate the post-2018 sales plateau to identify whether it reflects saturation, logistics constraints, or competitive pressure
+
+**Dashboard Preview:**
+
+![Blinkit Dashboard](https://github.com/Raviteja847-siliveru/Blinkit-data-analysis/blob/main/Blinkit_dashboard.png)
+
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/Blinkit-data-analysis?tab=readme-ov-file)
+
+---
+
+### 🎬 02 · Netflix Global Content Strategy — SQL + Power BI
+**`SQL` `CTEs` `CROSS APPLY` `STRING_SPLIT` `Power BI` `DAX` `1NF Normalisation`**
+
+**Problem:** Raw Netflix metadata stored genres as comma-separated strings — making any genre-level analysis invalid on the raw data.
+
+**Goal:** Re-engineer semi-structured data into a normalised model that enables genre, geography, and content-type analysis.
+
+**Outcome:** SQL normalisation increased usable data granularity by 115%. Content strategy inflection point (2015 US → Global pivot) confirmed with data.
+
+<table>
+<tr><td><b>Dataset</b></td><td>~8,800 Netflix titles across 749 countries (Kaggle)</td></tr>
+<tr><td><b>SQL Work</b></td><td>CROSS APPLY + STRING_SPLIT to unnest 500+ multi-value genre strings</td></tr>
+<tr><td><b>Schema</b></td><td>Fact_Titles + Dim_Date, Dim_Genre, Dim_Geography, Dim_Ratings</td></tr>
+<tr><td><b>Key Challenge</b></td><td>Moved raw data from denormalised strings to First Normal Form (1NF)</td></tr>
+</table>
+
+**Results at a glance:**
+
+| KPI | Value |
+|---|---|
+| Total Titles | ~8,800 |
+| Countries | 749 |
+| Genre Combinations (after SQL) | 515 unique |
+| Data Granularity Gain | +115% from normalisation |
+| Content Inflection Year | 2015 |
+
+**Key findings:**
+- **10× content volume growth post-2015** — US-to-Global strategy confirmed in data
+- **Drama & International = highest volume** — localised storytelling is the core engine
+- **TV-MA dominant** — Netflix's value prop is premium adult content
+- **20% metadata gap** — legacy records missing country/director data at ingestion
+
+**Recommendations made:**
+- Increase Family/Kids licensing in emerging markets — reduces household churn
+- Standardise metadata at content ingestion — fixes the 20% unknown-record problem at source
+
+**Dashboard Preview:**
+
+![Netflix Dashboard](https://github.com/Raviteja847-siliveru/netflix-content-analysis/blob/main/Netflix_png.png)
+
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis)
+
+---
+
+### 🇧🇷 03 · Olist Brazilian E-Commerce — BI Dashboard
 **`SQL` `Power BI` `DAX` `Power Query` `Star Schema`**
 
 **Problem:** 9 raw CSVs with 113K+ order records. No unified reporting. Leadership couldn't see revenue trends, delivery gaps, or customer retention problems in one place.
@@ -174,89 +266,8 @@ That foundation shapes how I approach analytics:
 |---|---|
 | ![Product](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/product_dashboard.png) | ![Operations](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard/blob/main/operations_dashboard.png) |
 
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard)  
+🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/olist-ecommerce-dashboard)
 
----
-
-### 🎬 02 · Netflix Global Content Strategy — SQL + Power BI
-**`SQL` `CTEs` `CROSS APPLY` `STRING_SPLIT` `Power BI` `DAX` `1NF Normalisation`**
-
-**Problem:** Raw Netflix metadata stored genres as comma-separated strings — making any genre-level analysis invalid on the raw data.
-
-**Goal:** Re-engineer semi-structured data into a normalised model that enables genre, geography, and content-type analysis.
-
-**Outcome:** SQL normalisation increased usable data granularity by 115%. Content strategy inflection point (2015 US → Global pivot) confirmed with data.
-
-<table>
-<tr><td><b>Dataset</b></td><td>~8,800 Netflix titles across 749 countries (Kaggle)</td></tr>
-<tr><td><b>SQL Work</b></td><td>CROSS APPLY + STRING_SPLIT to unnest 500+ multi-value genre strings</td></tr>
-<tr><td><b>Schema</b></td><td>Fact_Titles + Dim_Date, Dim_Genre, Dim_Geography, Dim_Ratings</td></tr>
-<tr><td><b>Key Challenge</b></td><td>Moved raw data from denormalised strings to First Normal Form (1NF)</td></tr>
-</table>
-
-**Results at a glance:**
-
-| KPI | Value |
-|---|---|
-| Total Titles | ~8,800 |
-| Countries | 749 |
-| Genre Combinations (after SQL) | 515 unique |
-| Data Granularity Gain | +115% from normalisation |
-| Content Inflection Year | 2015 |
-
-**Key findings:**
-- **10× content volume growth post-2015** — US-to-Global strategy confirmed in data
-- **Drama & International = highest volume** — localised storytelling is the core engine
-- **TV-MA dominant** — Netflix's value prop is premium adult content
-- **20% metadata gap** — legacy records missing country/director data at ingestion
-
-**Recommendations made:**
-- Increase Family/Kids licensing in emerging markets — reduces household churn
-- Standardise metadata at content ingestion — fixes the 20% unknown-record problem at source
-
-**Dashboard Preview:**
-
-![Netflix Dashboard](https://github.com/Raviteja847-siliveru/netflix-content-analysis/blob/main/Netflix_png.png)
-
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/netflix-content-analysis) 
-
----
-
-### 🛍️ 03 · Blinkit Quick Commerce — Sales Intelligence
-**`Power BI` `DAX` `Power Query` `Excel`**
-
-**Problem:** Sales data across outlet types, city tiers, and product categories existed in isolation — no consolidated view of where profitability actually came from.
-
-**Goal:** Surface outlet-level and SKU-level profitability patterns across India's quick commerce market.
-
-**Outcome:** Tier-3 medium outlets identified as highest revenue-per-item segment — counterintuitive finding with direct expansion implications.
-
-<table>
-<tr><td><b>Dataset</b></td><td>8,500+ Blinkit sales records across outlet types, tiers & categories</td></tr>
-<tr><td><b>Focus</b></td><td>Outlet profitability · Product performance · Consumer behaviour</td></tr>
-</table>
-
-| KPI | Value |
-|---|---|
-| Total Sales | $1.20M |
-| Avg Sale / Transaction | $141 |
-| Items Tracked | 8,523 |
-| Avg Rating | 3.9 / 5.0 |
-
-**Key findings:**
-- **Tier-3 medium outlets outperform Tier-1 large outlets** in revenue per item
-- **Low-fat products gaining share** — health-conscious shift in quick commerce
-- **Fruits, Vegetables & Snacks** drive highest order volume — bundling opportunity
-
-**Recommendations made:**
-- Prioritise Tier-3 city expansion over densifying Tier-1 locations
-- Audit low-rated high-revenue SKUs — quality gap is a retention risk
-
-**Dashboard Preview:**
-
-![Blinkit Dashboard](https://raw.githubusercontent.com/Raviteja847-siliveru/blinkit-sales-dashboard/main/images/blinkit_dashboard.png)
-
-🔗 [**View Full Project →**](https://github.com/Raviteja847-siliveru/blinkit-sales-dashboard) 
 ---
 
 ## 📚 Currently Learning
