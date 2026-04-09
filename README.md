@@ -276,7 +276,7 @@ Statistics              ████████████░░░░░░�
 ✅ **Roles:** Data Analyst · BI Analyst · SQL Analyst · Business Analyst  
 ✅ **Location:** Hyderabad (preferred) · Remote · Bengaluru / Chennai (open to relocate)  
 ✅ **Availability:** Immediate  
-✅ **Contact:** [ravitejasiliveru480@gmail.com](mailto:ravitejasiliveru480@gmail.com)
+✅ **Contact:** [ravitejasiliveru364@gmail.com](mailto:ravitejasiliveru364@gmail.com)
 
 <div align="center">
 
