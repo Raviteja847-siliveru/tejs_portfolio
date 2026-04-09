@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raviteja%20Siliveru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviteja-siliveru-ab8224400/)
-[![Gmail](https://img.shields.io/badge/Gmail-ravitejasiliveru480-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitejasiliveru480@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ravitejasiliveru364-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitejasiliveru364@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Raviteja847--siliveru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raviteja847-siliveru)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20Roles-2ea44f?style=for-the-badge)](mailto:ravitejasiliveru364@gmail.com)
 
