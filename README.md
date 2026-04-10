@@ -77,10 +77,13 @@ That foundation shapes how I approach analytics:
 
 | Qualification | Institution | Year |
 |---|---|---|
-| 🎓 B.Tech — [Your Branch] | [Your College], Hyderabad | [Year] |
-| 📜 SQL for Data Science | Coursera / UC Davis | 2024 |
-| 📜 Python for Data Analysis | [Platform] | 2024 |
-| 📜 Microsoft PL-300 — Power BI Data Analyst | Microsoft Learn — In Progress | 2025 |
+| 🎓 B.Tech — Computer Science and Engineering | CVR College Of Engineering, Hyderabad | 2020-2024 |
+| 📜 Microsoft PL-300 — Power BI Data Analyst | Microsoft Learn — In Progress | 2026 |
+| 📜 Google Data Analytics Professional Certificate | Issued by Google Career Certificates | 2026 |
+| 📜 Cisco Certified Data Analytics Essentials | Issued by Cisco | 2026 |
+| 📜 Google Cybersecurity Professional Certificate V2 | Issued by Coursera | 2024 |
+| 📜 Python 101 for Data Science | provided by IBM | 2024 |
+
 
 ---
 
