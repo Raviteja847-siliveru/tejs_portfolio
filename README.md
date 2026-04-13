@@ -25,7 +25,7 @@ profile = {
     "name"       : "Raviteja Siliveru",
     "title"      : "Data Analyst | SQL Engineer",
     "location"   : "Hyderabad, India",
-    "background" : "SQL Engineer @ Movate (Google client data pipelines) → Data Analyst",
+    "background" : "SQL Engineer @ Movate → Data Analyst",
     "stack"      : ["SQL", "Power BI", "Python", "DAX", "Power Query", "Excel"],
     "strengths"  : ["ETL pipeline monitoring", "Star schema design", "Query optimisation",
                     "Root cause analysis", "End-to-end BI dashboard delivery"],
@@ -59,20 +59,21 @@ That foundation shapes how I approach analytics:
 
 ## 💼 Work Experience
 
-### SQL Engineer — Movate *(Google Client Data Pipelines)*
-📅 **January 2025 – May 2026** &nbsp;|&nbsp; 📍 Hyderabad, India
+### Data Analytics & SQL Engineer — Movate
+📅 **January 2025 – Present** &nbsp;|&nbsp; 📍 Hyderabad, India
 
 | Responsibility | Impact |
 |---|---|
-| Monitored **20+ daily production batch jobs** for data integrity | Zero SOD reporting failures during tenure |
-| Resolved **10–15 weekly pipeline incidents** via GUTS ticketing | Maintained 99%+ pipeline reliability |
-| Performed **Root Cause Analysis** on recurring data failures | Reduced repeat incident frequency |
-| Applied **SQL-based data fixes** on high-volume transactional datasets | Accuracy improved to **99%+** |
-| Optimised slow queries using execution plans and strategic indexing | **~30% reduction** in average query runtime |
-| Ran **Start-of-Day (SOD) checks** for time-critical business reporting | Zero delays on time-sensitive data deliveries |
+| Led **UAT testing and dashboard validation** across reporting systems | Ensured **100% data accuracy** before stakeholder delivery |
+| Monitored and maintained **enterprise-scale data pipelines** | Achieved **99%+ pipeline reliability** with zero SOD failures |
+| Designed and optimized **SQL-based ETL workflows & Alteryx pipelines** | Improved performance with **~30% reduction in query runtime** |
+| Performed **advanced SQL analysis (CTEs, joins, stored procedures)** | Enabled faster troubleshooting and improved data quality |
+| Conducted **Root Cause Analysis (RCA)** on recurring pipeline failures | Reduced incident recurrence and improved system stability |
+| Managed **production support & incident resolution** | Minimized downtime and ensured SLA compliance |
+| Gathered **stakeholder requirements** for reporting frameworks | Delivered scalable, business-aligned data solutions |
+| Automated repetitive data processes | Increased operational efficiency and reduced manual effort |
 
 ---
-
 ## 🎓 Education & Certifications
 
 | Qualification | Institution | Year |
