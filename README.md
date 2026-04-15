@@ -3,7 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header" width="100%"/>
 
 # Raviteja Siliveru
-### Data Analyst · SQL Engineer · Power BI Developer
+### Engineering Analyst – Data & Reporting 
+
+Movate Technologies, Hyderabad, India · Full-time
+
+Jan 2025 - Present · 1 yr 4 mos
+
+Hyderabad, Telangana, India · On-site
+
+Designed and implemented scalable ETL pipelines, enabling efficient data loading and transformation from multiple sources (APIs, databases, flat files) into our data warehouse.
+Maintained and optimized a Snowflake-based data warehouse to support enterprise analytics, ensuring data accuracy and high performance for reporting workloads.
+Wrote and tuned complex SQL queries and Python scripts to speed up data processing and reporting tasks, reducing run-times significantly.
+Used Airflow to orchestrate data workflows and AWS/Azure services to integrate cloud data storage, ensuring end-to-end automation and reliability.
+Collaborated with analysts and business stakeholders to develop interactive dashboards (Power BI, Tableau) and visualizations, translating data insights into clear recommendations.
+Proactively monitored system health and data quality; applied performance tuning and troubleshooting (query optimization, indexing) to prevent bottlenecks and downtime.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SQL+Engineer+turned+Data+Analyst;Production+SQL+%7C+Star+Schema+%7C+ETL+Pipelines;99%25%2B+Data+Accuracy+%7C+~30%25+Query+Optimisation;Power+BI+%7C+DAX+%7C+Python+%7C+End-to-End+BI+Delivery" alt="Typing SVG" />
 
@@ -23,9 +36,9 @@
 ```python
 profile = {
     "name"       : "Raviteja Siliveru",
-    "title"      : "Data Analyst | SQL Engineer",
+    "title"      : "Engineering Analyst – Data & Reporting ",
     "location"   : "Hyderabad, India",
-    "background" : "SQL Engineer @ Movate → Data Analyst",
+    "background" : "Engineering Analyst @Movate– Data & Reporting ",
     "stack"      : ["SQL", "Power BI", "Python", "DAX", "Power Query", "Excel"],
     "strengths"  : ["ETL pipeline monitoring", "Star schema design", "Query optimisation",
                     "Root cause analysis", "End-to-end BI dashboard delivery"],
@@ -59,19 +72,17 @@ That foundation shapes how I approach analytics:
 
 ## 💼 Work Experience
 
-### Data Analytics & SQL Engineer — Movate
+### Engineering Analyst – Data & Reporting  — Movate
 📅 **January 2025 – Present** &nbsp;|&nbsp; 📍 Hyderabad, India
 
 | Responsibility | Impact |
 |---|---|
-| Led **UAT testing and dashboard validation** across reporting systems | Ensured **100% data accuracy** before stakeholder delivery |
-| Monitored and maintained **enterprise-scale data pipelines** | Achieved **99%+ pipeline reliability** with zero SOD failures |
-| Designed and optimized **SQL-based ETL workflows & Alteryx pipelines** | Improved performance with **~30% reduction in query runtime** |
-| Performed **advanced SQL analysis (CTEs, joins, stored procedures)** | Enabled faster troubleshooting and improved data quality |
-| Conducted **Root Cause Analysis (RCA)** on recurring pipeline failures | Reduced incident recurrence and improved system stability |
-| Managed **production support & incident resolution** | Minimized downtime and ensured SLA compliance |
-| Gathered **stakeholder requirements** for reporting frameworks | Delivered scalable, business-aligned data solutions |
-| Automated repetitive data processes | Increased operational efficiency and reduced manual effort |
+| Designed and implemented **scalable ETL pipelines** integrating APIs, databases, and flat files | Enabled efficient data ingestion and improved data availability for analytics |
+| Managed and optimized **Snowflake data warehouse architecture** | Ensured high-performance queries and reliable data accuracy for enterprise reporting |
+| Developed and tuned **complex SQL queries and Python scripts** | Reduced data processing time by **25%+**, accelerating reporting and insights delivery |
+| Orchestrated workflows using **Apache Airflow** and integrated **AWS/Azure cloud services** | Achieved automated, end-to-end data pipelines with improved reliability and scalability |
+| Collaborated with stakeholders to build **Power BI & Tableau dashboards** | Translated data into actionable insights, improving business decision-making |
+| Monitored **data quality and system performance**, performing query optimization and troubleshooting | Prevented bottlenecks and maintained consistent system uptime and data reliability |
 
 ---
 ## 🎓 Education & Certifications
