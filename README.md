@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header" width="100%"/>
 
 # Raviteja Siliveru
-### Engineering Analyst – Data & Reporting 
+### Associate Engineer – Data & Reporting 
 
 Movate Technologies, Hyderabad, India · Full-time
 
@@ -36,9 +36,9 @@ Proactively monitored system health and data quality; applied performance tuning
 ```python
 profile = {
     "name"       : "Raviteja Siliveru",
-    "title"      : "Engineering Analyst – Data & Reporting ",
+    "title"      : "Associate Engineer – Data & Reporting",
     "location"   : "Hyderabad, India",
-    "background" : "Engineering Analyst @Movate– Data & Reporting ",
+    "background" : "Associate Engineer@Movate– Data & Reporting ",
     "stack"      : ["SQL", "Power BI", "Python", "DAX", "Power Query", "Excel"],
     "strengths"  : ["ETL pipeline monitoring", "Star schema design", "Query optimisation",
                     "Root cause analysis", "End-to-end BI dashboard delivery"],
@@ -59,7 +59,7 @@ profile = {
 
 Most analyst portfolios are built on Kaggle samples. Mine is built on **real production SQL engineering experience.**
 
-At Movate, I supported **Google client data pipelines** — monitoring batch jobs, resolving live incidents, performing Root Cause Analysis, and fixing data quality issues on systems where errors had direct business impact.
+At Movate, managed and optimized enterprise-scale data pipelines by monitoring high-volume batch jobs and resolving live incidents. Conducted comprehensive Root Cause Analysis (RCA) to remediate data quality issues, ensuring system reliability and preventing downstream impacts on critical business-decision systems.
 
 That foundation shapes how I approach analytics:
 
@@ -72,7 +72,7 @@ That foundation shapes how I approach analytics:
 
 ## 💼 Work Experience
 
-### Engineering Analyst – Data & Reporting  — Movate
+### Associate Engineer – Data & Reporting — Movate
 📅 **January 2025 – Present** &nbsp;|&nbsp; 📍 Hyderabad, India
 
 | Responsibility | Impact |
