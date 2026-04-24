@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header" width="100%"/>
 
 # Raviteja Siliveru
-### Associate Engineer – Data & Reporting 
+### Engineer – Data & Reporting 
 
 Movate Technologies, Hyderabad, India · Full-time
 
@@ -36,17 +36,18 @@ Proactively monitored system health and data quality; applied performance tuning
 ```python
 profile = {
     "name"       : "Raviteja Siliveru",
-    "title"      : "Associate Engineer – Data & Reporting",
+    "title"      : "Engineer (Data & Reporting)",
     "location"   : "Hyderabad, India",
-    "background" : "Associate Engineer@Movate– Data & Reporting ",
+    "background" : "Engineer @ Movate – Data & Reporting",
     "stack"      : ["SQL", "Power BI", "Python", "DAX", "Power Query", "Excel"],
-    "strengths"  : ["ETL pipeline monitoring", "Star schema design", "Query optimisation",
-                    "Root cause analysis", "End-to-end BI dashboard delivery"],
+    "strengths"  : ["Batch job monitoring & system health", "SQL query optimisation",
+                    "SAP IDOC root cause analysis", "Sales hierarchy data management",
+                    "Deployment pipeline coordination"],
     "proof"      : {
-        "data_accuracy"  : "99%+  on production pipelines",
-        "query_speed"    : "~30%  faster via execution plans & indexing",
-        "pipeline_ops"   : "20+   daily batch jobs monitored end-to-end",
-        "incidents"      : "10-15 weekly incidents resolved via RCA"
+        "environments"   : "Stage & Dev (NON-PROD) monitored via Apigee Trace",
+        "tools"          : "Dynatrace · WinSCP · WebSphere · SAP IDOC",
+        "pipeline_ops"   : "Weekly Lens deployments managed end-to-end",
+        "troubleshooting": "UI + DB + release incidents resolved via RCA"
     },
     "open_to"    : ["Data Analyst", "BI Analyst", "SQL Analyst", "Business Analyst"],
     "available"  : True
@@ -72,17 +73,15 @@ That foundation shapes how I approach analytics:
 
 ## 💼 Work Experience
 
-### Associate Engineer – Data & Reporting — Movate
+### Engineer – Data & Reporting — Movate
 📅 **January 2025 – Present** &nbsp;|&nbsp; 📍 Hyderabad, India
 
-| Responsibility | Impact |
+| Area | Responsibilities |
 |---|---|
-| Designed and implemented **scalable ETL pipelines** integrating APIs, databases, and flat files | Enabled efficient data ingestion and improved data availability for analytics |
-| Managed and optimized **Snowflake data warehouse architecture** | Ensured high-performance queries and reliable data accuracy for enterprise reporting |
-| Developed and tuned **complex SQL queries and Python scripts** | Reduced data processing time by **25%+**, accelerating reporting and insights delivery |
-| Orchestrated workflows using **Apache Airflow** and integrated **AWS/Azure cloud services** | Achieved automated, end-to-end data pipelines with improved reliability and scalability |
-| Collaborated with stakeholders to build **Power BI & Tableau dashboards** | Translated data into actionable insights, improving business decision-making |
-| Monitored **data quality and system performance**, performing query optimization and troubleshooting | Prevented bottlenecks and maintained consistent system uptime and data reliability |
+| **Monitoring & System Health** | Monitored high-impact batch jobs to ensure stability and prevent data discrepancies in downstream systems; validated server availability and downstream data flows by analyzing logs using **Apigee Trace** across Stage and Dev (NON-PROD) environments; utilized **WinSCP** to access application server logs for real-time troubleshooting; tracked system performance metrics — CPU saturation, log utilization, and data load volumes — using **Dynatrace**. |
+| **Database Management & Optimization** | Mitigated business impact by performing rapid data corrections for erroneous submissions; resolved **SAP IDOC failures** via root cause analysis and targeted data corrections; managed complex **sales hierarchy table updates** including node relationship modifications; developed and optimized complex **SQL queries** with cross-schema table mapping for reporting and data retrieval; performed **performance tuning** on stored procedures and job scripts to reduce execution time under increased data loads. |
+| **UI & Application Troubleshooting** | Investigated **WebSphere Application Server (WAS)** logs to identify and resolve data fetching issues in the UI; debugged **JavaScript code** to pinpoint front-end logic breaks and restore seamless data rendering. |
+| **Deployments & Releases** | Orchestrated weekly **"Lens" deployments** including configuration of lens parameters and upload of material/unspec values; managed the end-to-end **deployment pipeline** to ensure data synchronization with downstream systems post-job execution. |
 
 ---
 ## 🎓 Education & Certifications
